@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://tywi6665.github.io/Clicky-Game2",
+  "homepage": "https://tywi6665.github.io/Clicky-Game2/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.5.2",
