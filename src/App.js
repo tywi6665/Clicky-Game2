@@ -56,7 +56,7 @@ class App extends Component {
         <Jumbotron 
           score={this.state.score}
         />
-        <div className="container" style={{minHeight:735}}>
+        <div className="container">
           {this.state.characters.map(character => (
             <Card
               handleClick={this.handleClick}
