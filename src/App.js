@@ -52,10 +52,10 @@ class App extends Component {
     console.log("birthday twins 1/14")
     return (
       <div className="body">
-        <Header
+        <Header/>
+        <Jumbotron 
           score={this.state.score}
         />
-        <Jumbotron />
         <div className="container" style={{minHeight:735}}>
           {this.state.characters.map(character => (
             <Card

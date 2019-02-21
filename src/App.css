@@ -4,12 +4,12 @@
 }
 
 .container {
-  padding-left: 6.5%;
-  padding-bottom: 10%;
+  padding: 5%;
+  margin: 0 auto;
 }
 
-@media only screen and (max-width:960px) {
+/* @media only screen and (max-width:960px) {
   .container {
     padding-left: 12%;
   }
-}
+} */

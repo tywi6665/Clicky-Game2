@@ -6,9 +6,8 @@ img {
 
 .card {
     display: inline-block;
-    margin-right: 4%;
-    margin-top: 4%;
-    border:2px solid #38ae24;
+    margin: 2%;
+    border: 2px solid #38ae24;
     border-radius: 25px;
     box-shadow: 0 0 5px 3px #38ae24;
 }
